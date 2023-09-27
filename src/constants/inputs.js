@@ -1,11 +1,11 @@
 const RESULT_CONFIGURATIONS = {
   FAILURE: {
     variant: "danger",
-    message: "No fue posible hacer el registro",
+    message: "No fue posible hacer el registro 😕",
   },
   SUCCESS: {
     variant: "success",
-    message: "¡Registro exitoso!",
+    message: "¡Registro exitoso! 😊",
   },
 };
 
