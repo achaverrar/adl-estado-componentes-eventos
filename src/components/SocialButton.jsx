@@ -6,7 +6,7 @@ const SocialButton = ({ icon }) => {
     <Button
       variant="outline-dark"
       className="d-flex align-items-center justify-content-center rounded-circle"
-      style={{ width: "3em", height: "3em" }}
+      style={{ width: "5em", height: "5em" }}
     >
       <FontAwesomeIcon icon={icon} size="xl" />
     </Button>
