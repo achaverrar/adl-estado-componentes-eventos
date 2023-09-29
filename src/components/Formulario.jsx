@@ -6,6 +6,7 @@ import FormControl from "./FormControl";
 
 const INITIAL_STATE = {
   name: "",
+  lastname:"",
   email: "",
   password: "",
   passwordConfirm: "",
